@@ -38,7 +38,7 @@ color-tracking-object/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/color-tracking-object.git
+git clone https://github.com/your-beduduruhasini/color-tracking-object.git
 cd color-tracking-object
 
 2️⃣ Install Required Libraries
@@ -113,5 +113,5 @@ Integrate with robotics hardware
 
 👩‍💻 Author
 
-BEDURU HASINI
+BEDUDURU HASINI
 B.Tech – Computer Science Engineering
